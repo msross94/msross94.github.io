@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Economics, UNC - Chapel Hill, 2024 (Expected)
+* M.S. in Economics, UNC - Chapel Hill, 2022
+* B.S. in Economics, BYU, 2019
+* B.A. in Economics, BYU, 2019
 
 Work experience
 ======
@@ -29,12 +30,11 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Matlab
+* STATA
+* R
+* LaTeX
 
 Publications
 ======
@@ -54,6 +54,11 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Awards
 ======
-* Currently signed in to 43 different slack teams
+* The Lurcy Fellowship - UNC Econ Department, January 2023
+* Center for Regulatory and Industrial Studies (CRIS) Fellowship, June 2022
+* James B. McDonald Scholarship, January 2019
+* James and Marci Anderson Scholarship, July 2018
+* Walter U. Fehriman Scholarship, April 2018
+* Brigham Young University Merit Scholarship, 2016 - 2019
