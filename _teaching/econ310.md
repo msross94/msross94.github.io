@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/econ310
 venue: "UNC - Chapel Hill, Economics Department"
-date: Fall 2020 - Current
+date: 2020-8-20
 location: "Chapel Hill, NC"
 ---
 
