@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Econ 310: Intermediate Microeconomics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/econ310
+venue: "UNC - Chapel Hill, Economics Department"
+date: Fall 2020 - Current
+location: "Chapel Hill, NC"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Econ 310 is a intermediate microeconomics course designed to teach students who are not majoring in economics. 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
