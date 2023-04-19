@@ -8,5 +8,5 @@ date: Fall 2020 - Current
 location: "Chapel Hill, NC"
 ---
 
-Econ 310 is a intermediate microeconomics course designed to teach students who are not majoring in economics. 
+Econ 310 is an intermediate microeconomics course designed to teach students who are not majoring in economics. 
 
