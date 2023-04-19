@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV here](http://msross94.github.io/files/CV.pdf)
+
 Education
 ======
 * Ph.D. in Economics, UNC - Chapel Hill, 2024 (Expected)
